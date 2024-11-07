@@ -11,7 +11,11 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 Research interests
 ======
-
+* Mathematical and Numerical Analysis of PDEs
+* Inverse Problems
+* Optimal Control
+* Data Assimilation
+* Reduced order approaches
 
 Getting started
 ======
